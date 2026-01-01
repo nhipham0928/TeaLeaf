@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOPs\\TeaLeaf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66830D3C-6B07-44CB-80A3-7F529C2ECBCC}|TeaLeaf.vcxproj|D:\\OOPs\\TeaLeaf\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66830D3C-6B07-44CB-80A3-7F529C2ECBCC}|TeaLeaf.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66830D3C-6B07-44CB-80A3-7F529C2ECBCC}|TeaLeaf.vcxproj|D:\\OOPs\\TeaLeaf\\TEASHUFFLER.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66830D3C-6B07-44CB-80A3-7F529C2ECBCC}|TeaLeaf.vcxproj|solutionrelative:TEASHUFFLER.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66830D3C-6B07-44CB-80A3-7F529C2ECBCC}|TeaLeaf.vcxproj|D:\\OOPs\\TeaLeaf\\TEASHUFFLER.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66830D3C-6B07-44CB-80A3-7F529C2ECBCC}|TeaLeaf.vcxproj|solutionrelative:TEASHUFFLER.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66830D3C-6B07-44CB-80A3-7F529C2ECBCC}|TeaLeaf.vcxproj|D:\\OOPs\\TeaLeaf\\TEAREADER.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66830D3C-6B07-44CB-80A3-7F529C2ECBCC}|TeaLeaf.vcxproj|solutionrelative:TEAREADER.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66830D3C-6B07-44CB-80A3-7F529C2ECBCC}|TeaLeaf.vcxproj|D:\\OOPs\\TeaLeaf\\TEASYMBOL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66830D3C-6B07-44CB-80A3-7F529C2ECBCC}|TeaLeaf.vcxproj|solutionrelative:TEASYMBOL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66830D3C-6B07-44CB-80A3-7F529C2ECBCC}|TeaLeaf.vcxproj|D:\\OOPs\\TeaLeaf\\TEASYMBOL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66830D3C-6B07-44CB-80A3-7F529C2ECBCC}|TeaLeaf.vcxproj|solutionrelative:TEASYMBOL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66830D3C-6B07-44CB-80A3-7F529C2ECBCC}|TeaLeaf.vcxproj|D:\\OOPs\\TeaLeaf\\TEAREADER.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66830D3C-6B07-44CB-80A3-7F529C2ECBCC}|TeaLeaf.vcxproj|solutionrelative:TEAREADER.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\OOPs\\TeaLeaf\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\OOPs\\TeaLeaf\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwEoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-18T14:22:37.557Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TEASHUFFLER.h",
+              "DocumentMoniker": "D:\\OOPs\\TeaLeaf\\TEASHUFFLER.h",
+              "RelativeDocumentMoniker": "TEASHUFFLER.h",
+              "ToolTip": "D:\\OOPs\\TeaLeaf\\TEASHUFFLER.h",
+              "RelativeToolTip": "TEASHUFFLER.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-22T12:34:42.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TEASHUFFLER.cpp",
+              "DocumentMoniker": "D:\\OOPs\\TeaLeaf\\TEASHUFFLER.cpp",
+              "RelativeDocumentMoniker": "TEASHUFFLER.cpp",
+              "ToolTip": "D:\\OOPs\\TeaLeaf\\TEASHUFFLER.cpp",
+              "RelativeToolTip": "TEASHUFFLER.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-18T14:23:27.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TEAREADER.h",
+              "DocumentMoniker": "D:\\OOPs\\TeaLeaf\\TEAREADER.h",
+              "RelativeDocumentMoniker": "TEAREADER.h",
+              "ToolTip": "D:\\OOPs\\TeaLeaf\\TEAREADER.h",
+              "RelativeToolTip": "TEAREADER.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-22T12:40:26.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TEASYMBOL.h",
+              "DocumentMoniker": "D:\\OOPs\\TeaLeaf\\TEASYMBOL.h",
+              "RelativeDocumentMoniker": "TEASYMBOL.h",
+              "ToolTip": "D:\\OOPs\\TeaLeaf\\TEASYMBOL.h",
+              "RelativeToolTip": "TEASYMBOL.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-22T12:34:32.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TEASYMBOL.cpp",
+              "DocumentMoniker": "D:\\OOPs\\TeaLeaf\\TEASYMBOL.cpp",
+              "RelativeDocumentMoniker": "TEASYMBOL.cpp",
+              "ToolTip": "D:\\OOPs\\TeaLeaf\\TEASYMBOL.cpp",
+              "RelativeToolTip": "TEASYMBOL.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-22T12:39:31.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TEAREADER.cpp",
+              "DocumentMoniker": "D:\\OOPs\\TeaLeaf\\TEAREADER.cpp",
+              "RelativeDocumentMoniker": "TEAREADER.cpp",
+              "ToolTip": "D:\\OOPs\\TeaLeaf\\TEAREADER.cpp",
+              "RelativeToolTip": "TEAREADER.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-18T14:23:13.757Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TeaLeaf.vcxproj" Id="66830d3c-6b07-44cb-80a3-7f529c2ecbcc" />
+</Solution>

@@ -1,0 +1,182 @@
+ANGEL (Tiên nữ)|Những người bảo hộ tâm linh sẽ luôn soi đường cho bạn.|images/angel.png
+ANT (Con kiến)|Trên con đường thành công không có dấu chân của kẻ lười biếng.|images/ant.png
+APPLE (Quả táo)|Lưới trời lồng lộng, tuy thưa mà khó thoát.|images/apple.png
+ARCHWAY (Cổng vòm)|Những cơ hội, khả năng, con đường mới đang mở ra trước mắt.|images/archway.png
+ARROW (Mũi tên)|Bạn đang đi đúng hướng và không màng bất cứ chuyện gì.|images/arrow.png
+AXE (Cây rìu)|Nguy hiểm đang cận kề, hãy thật cẩn trọng.|images/axe.png
+BAG (Túi)|Phần thưởng cho sự chăm chỉ vừa qua đang tới gần.|images/bag.png
+BARREL (Thùng rỗng)| Bạn cảm thấy không hài lòng hoặc thiếu thốn điều gì đó trong cuộc sống.|images/barrel.png
+BASKET (Giỏ rơm)|Mọi nỗ lực sẽ được đền đáp xứng đáng.|images/basket.png
+BAT (Con dơi)|Kẻ thù đang ẩn trong bóng tối, sẵn sàng tấn công ngay khi có cơ hội.|images/bat.png
+BEAR (Con gấu)|Bạn nên đặc biệt cẩn thận về vấn đề tiền bạc bất cừ nơi nào có thể.|images/bear.png
+BEETLE (Bọ cánh cứng)|May mắn sẽ mỉm cười với bạn trong thời gian tới.|images/beetle.png
+BELL (Cái chuông)|Bạn sẽ sớm nghe được những tin tức có ảnh hưởng tới cuộc sống.|images/bell.png
+BIRD - FLYING (Chim bay)|Tin tức sẽ đến với bạn từ phương xa.|images/bird-flying.png
+BIRD - PERCHED (Chim đậu)|Bạn đang chờ đọi một tin tức, một món hàng hoặc một lá thư.|images/bird-perched.png
+BOAT (Con thuyền)|Bạn sẽ nhận được một khoản tiền hoặc món đồ từ trên trời rơi xuống.|images/boat.png
+BOOT (Chiếc ủng)|Bạn cần nỗ lực hơn nếu muốn đạt được mục tiêu.|images/boot.png
+BOUQUET (Bó hoa)|Một món quà đến từ người nào đó.|images/bouquet.png
+BOW (Cái nơ)|Bạn đang được ai đó đánh giá cao và ngưỡng mộ.|images/bow.png
+BOWL (Cái chậu)|Bạn sẽ có nhiều của cải vật chất.|images/bowl.png
+BOX (Cái hộp)|Bạn sẽ nhận được một món quà, có thể là về vật chất hoặc tinh thần.|images/box.png
+BREAD (Bánh mì)|Giai đoạn bạn tận hưởng sự phát triển và thịnh vượng.|images/bread.png
+BRIDGE (Cây cầu)|Bạn sẽ thành công vượt qua những khó khăn, chướng ngại.|images/bridge.png
+BROKEN BRIDGE (Cầu gãy)|Sự thất bại, gục ngã trước một vấn đề khó khăn.|images/broken-bridge.png
+BROKEN RING (Chiếc nhẫn bị nứt)|Sự tan vỡ của một mối liên kết từng gắn bó mọi người lại với nhau.|images/broken-ring.png
+BROKEN WISHBONE (Xương đòn bị gãy)|Một mong cầu không được chấp thuận.|images/broken-wishbone.png
+BROOM (Cây chổi)|Loại bỏ hết cái cũ và hướng về cái mới.|images/broom.png
+BULL (Bò đực)|Không chùn bước trước nhưng khó khăn, thử thách.|images/bull.png
+BUTTERFLY (Bươm bướm)|Bạn cần có sự thay đổi để tốt hơn.|images/butterfly.png
+CAMEL (Con lạc đà)|Hãy kiên trì và bạn sẽ vượt qua được khó khăn.|images/camel.png
+CANDLE (Ngọn nến)|Bạn sẽ được soi đường trên hành trình sắp tới.|images/candle.png
+CANE (Người chống gậy)|Đừng tham việc mà quên chú ý tới sức khỏe của mình.|images/cane.png
+CARRIAGE (Cỗ xe thùng)|Bạn sẽ có một chuyến đi về mặt vật lý hoặc về mặt tinh thần. Nếu là về mặt tinh thần, sau khi kết thúc, bạn sẽ nhìn sự vật theo cách khác biệt.|images/carriage.png
+CARROT (Củ cà rốt)|Một cơ hội hoặc món quà trời cho.|images/carrot.png
+CASKET (Quan tài)|Ai đó bước ra khỏi cuộc sống của bạn hoặc kết thúc một tình trạng nào đó.|images/casket.png
+CAT (Con mèo)|Bạn nên cẩn thận với những người mà bạn cho là bạn.|images/cat.png
+CATERPILLAR (Con sâu)|Một sự thay đổi lớn sẽ diễn ra trong cuộc sống của bạn.|images/caterpillar.png
+CHAIN (Sợi dây xích)| Chuỗi những sự kiện sẽ ảnh hưởng tới cuộc sống của bạn.|images/chain.png
+CHAIR - EMPTY (Chiếc ghế trống)|Ai đó quan trọng sẽ (hoặc vừa mới) rời khỏi cuộc sống của bạn.|images/chair-empty.png
+CHAIR - FILLED (Người ngồi ghế)|Một ai đó bước vào cuộc sống của bạn.|images/chair-filled.png
+CLAW (Móng vuốt)|Cần cẩn thận hơn và không nên liều lĩnh trong bất cứ tình huống nào.|images/claw.png
+CLOUDS (Đám mây)|Những khó khăn trước mắt chỉ là tạm thời, sau cơn mưa trời lại sáng.|images/clouds.png
+CLUB (Cây chùy)|Ai đó đang cố thuyết phục bạn làm điều gì đó trái với lương tâm.|images/club.png
+COBWEB (Mạng nhện)|Bạn được bảo vệ khỏi những thế lực tiêu cực nằm ngoài tầm kiểm soát.|images/cobweb.png
+COINS (Tiền xu)|Tiền bạc của cải đang tìm đến.|images/coins.png
+CRACKED CUP (Cốc vỡ)|Bạn đang không hài lòng về vài khía cạnh trong cuộc sống của mình.|images/cracked-cup.png
+CRIB (Cái nôi)|Sự ra đời/quan điểm về con cái hoặc một doanh nghiệp/một công việc của bạn hoặc một người nào đó gần gũi với bạn.|images/crib.png
+CROWN (Vương miện)|Bạn sẽ sớm nhận được vinh dự và sự tôn trọng.|images/crown.png
+CUP (Tách trà)|Bạn nên chấp nhận lời phê bình hợp lý, có tính xây dựng, bất cứ khi nào có thể, và hãy tận dụng nó.|images/cup.png
+DAGGER (Dao găm)|Bạn sắp bước vào một giai đoạn đầy sợ hãi, lo lắng và căng thẳng.|images/dagger.png
+DARK MAN|Sự giao tiếp hoặc mối quan hệ với người đàn ông có nước da hoặc tóc màu đen, gương mặt bí hiểm.|images/dark-man.png
+DARK WOMAN|Sự giao tiếp hoặc mối quan hệ với người phụ nữ có nước da hoặc tóc màu đen, gương mặt bí hiểm.|images/dark-woman.png
+DESK (Cái bàn)|Bạn nên chú ý vào công việc của mình, hoặc phải trả giá đắt vì lơ là nó.|images/desk.png
+DIAMOND (Kim cương)|Bạn sẽ nhận được hoặc trao đi một món trang sức hoặc một cái gì đó có giá trị với bạn.|images/diamond.png
+DOG (Con chó)|Bạn được một người bạn mạnh mẽ bảo vệ, có thể là ai đó bạn từng giúp đỡ về pháp luật hoặc tài chính.|images/dog.png
+DOGS (2 con chó)|Bạn sắp tụ tập với bạn bè và có khoảng thời gian vui vẻ.|images/dogs.png
+DOG - BARKING (Chó sủa)|Bạn bè hoặc người thân sẽ cho bạn một số lời khuyên.|images/dog-barking.png
+DOG - CLOSE UP (Con chó vui vẻ)|Bạn sẽ có quãng thời gian vui vẻ với bạn thân hoặc người thân của mình.|images/dog-closeup.png
+DOG - FAR AWAY (Con chó buồn bã)|Một người thân hoặc một người bạn sống ở xa đang nhớ về bạn. Hay cũng có thể là cách xa về mặt tinh thần và họ muốn xóa bỏ khoảng cách đó.|images/dog-faraway.png
+DOLPHIN (Cá heo)|Sự tăng trưởng tài chính, thường xuất phát từ những việc bạn làm trong quá khứ.|images/dolphin.png
+DOOR (Cánh cửa)|Cơ hội phải tự mình giành lấy.|images/door.png
+DRAGON (Con rồng)|Bạn đang tự lừa dối bản thân về một sự việc nào đó. Bạn nên đối diện với sự thật, mặc dù đau lòng, và hãy hành động cho phù hợp.|images/dragon.png
+EAGLE (Chim ưng)|Tinh thần của loài đại bàng sẽ dẫn đường cho bạn, giúp bạn giành được chiến thắng cuối cùng cho dù có đối mặt với khó khăn và trở ngại như thế nào đi nữa.|images/eagle.png
+EAR (Cái tai)|Bạn sắp nghe được tin tức tốt lành. Nó còn chỉ dẫn bạn nên bỏ qua mặt tiêu cực và chỉ nhìn vào mặt tích cực của vấn đề.|images/ear.png
+EGG (Quả trứng)|Sự cam kết, khi bạn lên kế hoạch đúng đắn và làm việc chăm chỉ thì thành công chắc chắn sẽ đến.|images/egg.png
+ELEPHANT (Con voi)|Một chuyến đi dài, về mặt vật lý hoặc tinh thần, đem lại thay đổi cách nhìn của bạn về cuộc sống.  |images/elephant.png
+EYE (Con mắt)|Khả năng ngoại cảm – hãy tin vào trực giác của mình.|images/eye.png
+FAIR MAN|Sự giao tiếp hoặc có mối quan hệ với người đàn ông có tóc màu trắng, màu xám hoặc màu vàng hoe, nước da trắng trẻo, khuôn mặt bí hiểm.|images/fair-man.png
+FAIR WOMAN|Sự giao tiếp hoặc có mối quan hệ với người phụ nữ có tóc màu trắng, màu xám hoặc màu vàng hoe, nước da trắng trẻo, khuôn mặt bí hiểm.|images/fair-man.png
+FAN (Cây quạt)|Bạn sẽ sớm ăn mừng về một điều gì đó hoặc dự một bữa tiệc vui vẻ. Đây còn là lá bài của sự lãng mạn, cho biết bạn hiện đang hoặc sắp hẹn hò với một ai đó.|images/fan.png
+FEATHER (Lông vũ)|Ai đó bạn quen là người không đáng tin cậy và không chân thành.|images/feather.png
+FINGER (Ngón tay)|Cảnh báo về một vấn đề xảy ra lúc này hoặc trong tương lai gần.|images/finger.png
+FIRE (Ngọn lửa)|Tình yêu hoặc thù hận mãnh liệt sẽ phá hủy tất cả một khi nó vượt quá tầm kiểm soát. Bạn nên cố gắng giữ cảm xúc của mình ở mức độ vừa phải để việc này không xảy ra.|images/fire.png
+FIRECRACKER (Pháo hoa)|Tình trạng phấn khích hoặc một vài sự kiện đang đợi bạn.|images/firecracker.png
+FLAG (Lá cờ)|Không nên dựa vào những mưu mẹo dễ dãi mà hãy sống bằng những phẩm chất cao quý bạn từng có trong quá khứ.|images/flag.png
+FLOWERS (Hoa nở)|Một quãng thời gian hạnh phúc, vô tư.|images/flowers.png
+FLUTE (Ống sáo)|Sự thất vọng về một người bạn hoặc người yêu.|images/flute.png
+FLY (Con ruồi)|Có thể bạn sẽ đối mặt với một giai đoạn bệnh tật, cả về thể chất lẫn tinh thần. Bạn nên xem xét lại thói quen sống của mình.|images/fly.png
+FOREST (Khu rừng)|Bạn đang làm rối tung một số vấn đề hoặc tình trạng thay vì suy nghĩ thấu đáo hay lên kế hoạch giải quyết.|images/forest.png
+FOUR-LEAFT CLOVER (Cỏ 4 lá)|Những điều tuyệt vời, may mắn sẽ đến với bạn.|images/four.png
+FOX (Con cáo)|Bạn sẽ có được sự khôn ngoan và khéo léo như loài cáo, đặc biệt là trong kinh doanh thời gian tới.|images/fox.png
+FRYING PAN (Cái chảo)|Lời cảnh báo về phiền phức ở phía trước. Bạn nên cẩn thận hơn để tự bảo vệ mình khỏi những cáo buộc nhắm tới bạn.|images/frying-pan.png
+FUNNEL (Cái phễu)|Một giai đoạn nản lòng vì mọi việc diễn ra quá chậm chạp, nhưng sau giai đoạn này, bạn sẽ rút ra được bài học quan trọng, đó là, bạn đã không học cách để mọi việc diễn ra nhanh chóng hơn.|images/funnel.png
+GAVEL (Cái búa)|Sẽ có một vài việc liên quan tới luật pháp trong thời gian tới.|images/gavel.png
+GONG (Cái chiêng)|Dự báo về một sự kiện thú vị sắp đến.|images/gong.png
+GOLDFISH (Cá vàng)|Sự gia tăng của cải vật chất hoặc trưởng thành về mặt tâm linh.|images/goldfish.png
+GRAPES (Chùm nho)|Bạn nên thoát khỏi những công việc thường ngày. Đến lúc ra ngoài và vui vẻ một chút rồi.|images/grapes.png
+GRASSHOPPER (Con cào cào)|Bạn nên giải quyết thật khéo léo để sự việc giữ được sự cân bằng, hoặc có thể tìm đến sự tư vấn chuyên nghiệp trước khi giải quyết vấn đề.|images/grasshopper.png
+HAMMOCK (Cái võng)|Bạn sẽ có một kì nghỉ dưỡng, về thể chất hoặc tinh thần, tránh xa khỏi những áp lực và căng thẳng của cuộc sống hàng ngày.|images/hammock.png
+HAND (Bàn tay)|Bạn đang cần giúp đỡ về một vài lĩnh vực trong cuộc sống.|images/hand.png
+HANDSHAKE (Bắt tay)|Cuộc gặp gỡ quan trọng với một người lạ.|images/handshake.png
+HARP (Đàn hạc)|Bạn sẽ có được một hạnh phúc lớn lao, hạnh phúc trong tâm hồn đến từ sự yêu thương và hài lòng với cuộc sống quanh mình.|images/harp.png
+HAT (Cái nón)|Bạn sẽ sớm giữ một vai trò mới trong cuộc sống.|images/hat.png
+HAYSTACK (Rơm/Cỏ khô)|Gieo nhân nào, gặt quả nấy.|images/haystack.png
+HEART (Trái tim)|Bạn sẽ phải lòng hoặc có tình cảm sâu đậm với ai đó hoặc ngược lại.|images/heart.png
+HILLS (Ngọn đồi)|Bạn sẽ tìm được cách nhìn nhận cuộc sống của mình dễ dàng hơn sau khi vượt qua khó khăn.|images/hills.png
+HORSE (Con ngựa)|Sẽ có một chuyến đi ngắn hạn trong thời gian tới.|images/horse.png
+HORSESHOE (Móng ngựa)|May mắn sẽ đổ xuống người bạn trong khoảng thời gian tới.|images/horseshoe.png
+INKPOT (Lọ mực)|Có những vấn đề mà bạn không sẵn sàng đối mặt, nên giải quyết trong thời hạn ấn định.|images/inkpot.png
+JUG (Cái bình)|Một khoảng thời gian nhẹ nhàng, vô ưu vô lo đang chờ đón bạn.|images/jug.png
+KANGAROO (Chuột túi)|Hãy dừng việc cố gắng đuổi theo quá nhiều phương diện cùng một lúc vì nó đang khiến bạn cạn kiệt tinh thần, thể chất và tài chính. Bạn nên dành thời gian để lập kế hoạch tỉ mỉ và đúng đắn cho tương lai.|images/kangaroo.png
+KEY (Chìa khóa)|Bạn sẽ tìm ra giải pháp cho vấn đề nan giải.|images/key.png
+KITE (Con diều)|Một kỳ nghỉ sẽ diễn ra.|images/kite.png
+KNOT (Nút thắt)|Các kế hoạch bị đứt gãy.|images/knot.png
+LADDER (Bậc thang)|Bạn đang dần đạt tới thành công trong một số mặt trong cuộc sống của mình, nhưng những đám mây lại tượng trưng cho các vấn đề tạm thời mà trước tiên bạn cần phải khắc phục. |images/ladder.png
+LEG (Cái chân)|Bạn sẽ bước vào một trải nghiệm mới.|images/leg.png
+LIGHTNING (Tia chớp)|Hãy kiểm soát sự tức giận của bạn bằng không bạn sẽ hối tiếc.|images/lightning.png
+LILY|Trái tim và trí tuệ sẽ được lấp đầy bằng tình yêu tâm linh, sự thiêng liêng và tinh khiết.|images/lily.png
+LION (Sư tử)|Hãy noi gương sư tử, và vượt qua sự do dự của mình. Đã đến lúc phải hành động hoặc phải đối mặt với những hậu quả do sự thiếu quyết đoán gây ra.|images/lion.png
+LOBSTER (Con tôm)|Phải có trách nhiệm trong việc xử lý tài chính của mình, nếu không có thể sẽ dẫn đến sự khó khăn trầm trọng.|images/lobster.png
+MAN (Người đàn ông)|Sự giao tiếp hoặc mối quan hệ với một người đàn ông.|images/man.png
+MICE (Bầy chuột)|Sự bất hòa giữa bạn và bạn bè hoặc gia đình bạn. Đây là thời điểm cần tỏ ra khôn khéo. Nếu không, bạn có thể thấy mình như nghèo nàn hơn về mặt tinh thần do sự thiếu hiểu biết.|images/mice.png
+MONEY PATH (Con đường tiền)|Có một con đường đầy tiền vàng đang chờ bạn khám phá nó.|images/money-path.png
+MOON (Mặt trăng)|Có những thay đổi trong cuộc sống, đặc biệt  là chuyện tình cảm.|images/moon.png
+MOUNTAIN (Ngọn núi)|Có một thách thức lớn mà bạn cần phải đối mặt và giải quyết. Không có bất cứ một giải pháp nào cho vấn đề này được đưa ra, nên bạn phải cẩn thận với con đường mà bạn chọn.|images/mountain.png
+MOUNTAIN ROAD (Đường lên núi)|Bạn đang trên đường đi tới thành công, nhưng thành công chỉ được đảm bảo nếu bạn luôn luôn đi theo con đường này với sự cẩn trọng.|images/mountain-road.png
+MULE (Con lừa)|Bạn đang tỏ ra bướng bỉnh và cứng nhắc trong quan điểm của mình hoặc một ai đó mà bạn biết là một người cứng đầu và không muốn thay đổi.|images/mule.png
+NEEDLE & THREAD (Kim chỉ)|Một ước muốn chân thành sẽ thành hiện thực.|images/needle.png
+NEST (Tổ chim)|Một thành viên của một gia đình tràn ngập tình yêu và sự ủng hộ rất quan trọng với bạn.|images/nest.png
+OLDER MAN|Sự giao tiếp hoặc mối quan hệ với một người đàn ông lớn tuổi.|images/older-man.png
+OLDER WOMAN|Sự giao tiếp hoặc mối quan hệ với một phụ nữ lớn tuổi.|images/older-woman.png
+OWL (Con cú)|Nên ghi nhận một số lời khuyên tốt mà bạn nhận được từ người mà bạn quý trọng và là người có đầy đủ thông tin.|images/owl.png
+PAIL (Thùng nước)|Đã đến lúc bạn phải giải phóng mình khỏi tình huống mà bạn đang mắc kẹt.|images/pail.png
+PARROT (Con vẹt)|Hãy giữ yên lặng, nếu không người khác sẽ bàn tán về những điều mà bạn muốn giữ bí mật.|images/parrot.png
+PEACOCK (Con công)|Hãy cảnh giác với thói kiêu căng, của mình và cả người khác.|images/peacock.png
+PIG (Con lợn)|Làm người thì không nên quá tham lam.|images/pig.png
+PIN (Đinh ghim)|Bạn sẽ sớm có một công việc/ sự nghiệp mới, hoặc công việc/ sự nghiệp mà bạn đã có sẽ sớm có hướng đi mới.|images/pin.png
+PINEAPPLE (Quả dứa)|Sự hòa giải sau một cuộc chia ly hoặc tranh cãi, hoặc hòa giải để chấp nhận một điều gì không thể thay đổi.|images/pineapple.png
+PURSE (Túi tiền)|Chú ý đến tài chính của bạn. Có thể bạn đang tiêu quá nhiều tiền, hoặc bạn nên kiểm tra các khoản đầu tư cẩn thận hơn.|images/purse.png
+QUILL (Lông vũ)|Hãy chú ý hơn đến những điều cơ bản mà dựa vào đó bạn xây dựng cuộc sống của mình.|images/quill.png
+RABBIT (Con thỏ)|Không nên quá chú tâm đến các vấn đề tình dục. Sự điều độ trong tất cả mọi thứ là một tiên đề tốt cho cuộc sống.|images/rabbit.png
+RAINBOW (Cầu vồng)|Phần khó khăn nhất của một tình huống đã được giải quyết và mọi việc sẽ trở nên dễ dàng hơn trong tương lai.|images/rainbow.png
+RAM (Cừu đực )|Bạn hoặc ai đó là một người bướng bỉnh và hung hăng. Cần cẩn thận và tỏ ra khéo léo trong giao tiếp, đó là phương hướng hành động tốt nhất.|images/ram.png
+RAT (Chuột đồng)|Một ai đó đang âm thầm chống lại bạn.|images/rat.png
+RING (Chiếc nhẫn)|Một sự kết hợp hài hòa sẽ diễn ra trong tình yêu hoặc trong công việc.|images/ring.png
+ROOSTER (Gà trống)|Sẽ có sự giao tế với một người kiêu ngạo, ngạo mạn và lời khuyên dành cho bạn là nên tỏ ra khéo léo và đừng đối đầu với người này nếu không bạn sẽ hối hận.|images/rooster.png
+ROSE (Hoa hồng)|Tình yêu đang tràn ngập trong không khí xung quanh bạn và bạn nên mở lòng mình và tận hưởng nó.|images/rose.png
+SCALES (Cán cân)|Cuộc sống của bạn đang mất cân đối. Nếu bạn muốn trải nghiệm sự hài lòng thực sự trong cuộc sống thì bạn phải phân tích lối sống của mình và làm bất cứ điều gì cần thiết để khôi phục lại sự cân bằng hợp lý.|images/scales.png
+SCISSORS (Cây kéo)|Nỗi thất vọng với một số chuyện.|images/scissors.png
+SEA HORSE (Cá ngựa)|Bạn sẽ cảm thấy bị áp lực bởi các vấn đề gia đình trong khoảng thời gian nhất định.|images/sea-horse.png
+SHARK (Cá mập)|Phải hết sức cẩn thận và cần có kỹ năng tuyệt vời để điều hướng các vùng nước tài chính của mình để không bị tổn thất tiền bạc.|images/shark.png
+SHIELD (Tấm khiên)|Tự lực cánh sinh.|images/shield.png
+SKULL (Đầu lâu)|Cần cẩn thận nếu những bí mật bị tiết lộ có thể rất có hại cho bạn. |images/skull.png
+SPEAR (Mũi giáo)|Bạn sẽ phải chịu đựng nỗi đau khổ về những gì bạn đã mất đi.|images/spear.png
+STAFF (Gậy batoong)|Người bảo vệ vô hình sẽ theo dõi bạn và sẽ dìu dắt bạn qua những thời điểm khó khăn và nguy hiểm.|images/staff.png
+STAR (Ngôi sao)|Sự thành công được đảm bảo.|images/star.png
+STORK (Con cò)|Tin tức về sự chào đời hoặc cơ hội kinh doanh mới.|images/stork.png
+SUN (Mặt trời)|Mặt trời sẽ soi sáng bạn, khiến bạn ngập tràn hạnh phúc và cảm giác khỏe mạnh, vui tươi.|images/sun.png
+SUNRISE (Bình minh)|Những ý tưởng sáng tạo mới, những dự án kinh doanh mới, một khởi đầu mới.|images/sunrise.png
+TABLE (Cái bàn)|Sắp tới bạn sẽ cần sự làm việc chăm chỉ trong một số khía cạnh cuộc sống của mình. Đây không phải là thời gian để bạn thư giãn và ung dung.|images/table.png
+TANKARD (Cốc vại)|Có thời gian dành cho bản thân mình hoặc một buổi liên hoan vui vẻ.|images/tankard.png
+TARGET (Tấm bia)|Bạn là một người có định hướng mục tiêu và có những mục tiêu rõ ràng mà bạn muốn đạt được, hoặc bạn sẽ có sự giao thiệp với một người hướng mục tiêu và có những mục tiêu nhất định.|images/target.png
+TEAPOT (Ấm trà)|Tình bạn sâu đậm với một người cùng giới.|images/teapot.png
+TEARDROPS (Nước mắt)|Một nỗi u sầu bi ai, đáng ra có thể tránh được nếu như bạn tin tưởng vào trực giác của mình.|images/teardrops.png
+TENT (Túp lều)|Một số tình huống mà bạn đang gặp phải chỉ là tạm thời và chúng sẽ sớm kết thúc.|images/tent.png
+THRONE (Ngai vàng)|Bạn đang nắm giữ hoặc sẽ sớm nắm giữ một vị trí quyền lực.|images/throne.png
+TIGER (Con hổ)|Bạn nên cẩn thận, hoặc là có dính líu đến một cái gì đó nguy hiểm hoặc đang dự tính tham gia vào một vụ việc có tính rủi ro.|images/tiger.png
+TORCH (Ngọn đuốc)|Sự phát triển tâm linh, sự giác ngộ, sự tỉnh thức và sự hiểu biết.|images/torch.png
+TORTOISE (Con rùa)|Chậm mà chắc.|images/tortoise.png
+TOWER (Tòa tháp)|Sự thành công hiếm khi đến mà không cần sự nỗ lực lớn và nó luôn luôn được xây dựng trên một nền tảng vững chắc.|images/tower.png
+TREE (Cái cây)|Bạn sẽ tham gia vào các vấn đề với gia đình của mình.|images/tree.png
+TULIP|Bạn sẽ cảm nhận niềm đam mê vô cùng lớn, có thể là tình yêu đầy đam mê, một sự căm ghét sâu sắc, hoặc sự nhiệt tình.|images/tulip.png
+TURKEY (Gà tây)|Bạn sẽ bị ảnh hưởng bởi sự ngu ngốc của một ai đó hoặc chính mình.|images/turkey.png
+UNICORN (Kỳ lân)|Hãy dùng trực giác của bạn để thực hiện những thay đổi có lợi.|images/unicorn.png
+V|Bạn sẽ giành được chiến thắng trong một số lĩnh vực.|images/v.png
+VALLEY (Thung lũng)|Sức mạnh và sự tĩnh tâm của cá nhân sẽ đảm bảo thành công.|images/valley.png
+VASE (Lọ hoa)|Có một người ngưỡng mộ bí mật, một người mà thân phận không phải dễ nhận biết.|images/vase.png
+VINE (Cành nho xanh)|Có những thông tin sẽ giúp đỡ bạn rất nhiều đấy nhưng bạn phải tự nỗ lực tìm ra nó. |images/vine.png
+VULTURE (Kền kền)|Bạn có thể trải qua giai đoạn lo âu hoặc trầm cảm, hoặc bạn có thể lo lắng rằng mọi người đang chờ đợi bạn mắc sai sót để họ có thể hả hê trong sự bất hạnh của bạn.|images/vulture.png
+WALL (Bức tường)|Có một sự hiểu nhầm giữa bạn và một người khác hoặc giữa mọi người với nhau. Việc thực hiện những bước đầu tiên hướng đến sự hòa giải là tùy thuộc vào bạn.|images/wall.png
+WEDGE (Cái nêm)|Một ai đó đang cố chen vào giữa bạn và một người bạn hoặc thứ bạn muốn.|images/wedge.png
+WEEPING WILOW (Cây liễu)|Sự đau buồn trong gia đình.|images/weeping.png
+WELL (Cái giếng)|Những mong ước cho gia đình sẽ thành hiện thực.|images/well.png
+WHALE (Cá voi)|Bạn thấy quá lo lắng về những chuyện không có thật.|images/whale.png
+WHEEL (Bánh xe)|Đây là thời điểm cần chăm lo cho cuộc sống của bạn và cho nó một phương hướng và mục đích cụ thể.|images/wheel.png
+WIND CHIMES (Chuông gió)|Bạn sẽ tìm thấy sự bình an và hòa hợp giữa sự bất hòa.|images/windchimes.png
+WISHBONE (Xương đòn)|Một ước muốn sâu thẳm trong lòng bạn sẽ được toại nguyện.|images/wishbone.png
+WOMAN|Sự giao tiếp hoặc mối quan hệ với một người phụ nữ.|images/woman.png
+WREATH (Vòng hoa)|Bạn sẽ phải chịu đựng nỗi buồn vì mất mát. Nó có thể là sự mất mát một người thân hoặc bạn bè hoặc tổn thất trong một tình huống kinh doanh.|images/wreath.png
+YOKE (Cái ách)|Bạn cảm thấy mình bị trói buộc và nản lòng trong một số khía cạnh của cuộc sống và muốn thoát ra. Đừng dựa dẫm vào người khác để mang lại tự do cho bạn.|images/yoke.png
+YOUNGER MAN|Sự giao tiếp hoặc mối quan hệ với một người đàn ông trẻ.|images/younger-man.png
+YOUNGER WOMAN|Sự giao tiếp hoặc mối quan hệ với một người phụ nữ trẻ.|images/younger-woman.png
