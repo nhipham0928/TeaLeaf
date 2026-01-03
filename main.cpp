@@ -201,8 +201,6 @@ int main() {
                             }
                             else {
                                 // DANG DUNG -> XAO LAI
-                                // O day bam man hinh de xao lai, co the coi la click
-                                // Tuy ban muon keu tieng gi, minh de tieng Click nhe
                                 clickSound.play();
                                 shuffler.start();
                                 bgMusic.pause();
