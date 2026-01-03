@@ -104,9 +104,9 @@ int main() {
     btnShuffle.setup(texBtnShuffle, 640, 400, 229, 60);
     btnBackToMode.setup(texBtnExit2, 1190, 630, 78, 70);
 
-    sf::FloatRect areaLove(250, 300, 300, 80); sf::FloatRect areaHappiness(250, 420, 300, 80);
-    sf::FloatRect areaMarriage(250, 540, 300, 80); sf::FloatRect areaCareer(730, 300, 300, 80);
-    sf::FloatRect areaSuccess(730, 420, 300, 80); sf::FloatRect areaWealth(730, 540, 300, 80);
+    sf::FloatRect areaLove(245, 300, 285, 80); sf::FloatRect areaHappiness(245, 413, 285, 80);
+    sf::FloatRect areaMarriage(245, 526, 285, 80); sf::FloatRect areaCareer(750, 300, 285, 80);
+    sf::FloatRect areaSuccess(750, 413, 285, 80); sf::FloatRect areaWealth(750, 526, 285, 80);
 
     TeaReader oracle; oracle.loadData("DATA.TXT");
     TeaShuffler shuffler(&oracle);
